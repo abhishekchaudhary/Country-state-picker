@@ -9,6 +9,7 @@ A cool dropdown picker to select country and state.
 * Add two <select> fields in the appropriate locations in your form.
 * Give the country field a class of crs-country.
 * Now we need to map each country field to its corresponding region field so the script knows what to update when a    country is selected. Add an attribute to the country dropdown: data-region-id="TEST" where TEST is any string. Now   Give the region dropdown an id of "TEST".
+* Initialize with method country_state_picker() .
 
 
 ## Default "Please select" Values
