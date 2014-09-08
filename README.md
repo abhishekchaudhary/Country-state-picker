@@ -35,3 +35,5 @@ This lists all the available data-* attributes that you can add to the country/r
 * data-blank-option - before the user selects a country, there's a single displayed which by default is the "-" character.
 * data-default-option - optional. Default: "Select region". This determines the default, blank option display value that shows up after a user has selected a country.
 * data-default-value - optional. The default selected value in the region dropdown (e.g. "British Columbis")
+
+### REFERENCE:https://github.com/benkeen/country-region-selector 
